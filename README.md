@@ -5,8 +5,7 @@ Welcome on my profile ! <img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0
 
 <!-- Animated svg typing-->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://len-readme-typing-svg.herokuapp.com/?font=Fira+Code&center=true&duration=4000&pause=1000&color=F74F11&width=435&lines=Python+back-end+developer;Science+and+space+lover;Always+looking+for+aliens" alt="Typing SVG" /></a>
+  Python engineer, back-end dev
 </p>
 
 <!-- Social Icons -->

@@ -32,7 +32,6 @@ Welcome on my profile ! <img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0
 <!-- Stats -->
 I know that my github is quite empty, but soon it'll be full of new projects !  
 <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LenRenko stat's" src="https://github-readme-stats.vercel.app/api/?username=LenRenko&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=DD5015&icon_color=DD5015" height="192px"/></a>
   <!--
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LenRenko''s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenRenko&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 -->

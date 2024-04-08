@@ -11,9 +11,9 @@ Welcome on my profile ! <img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0
 <!-- Social Icons -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kim-charles-rimbault/">
+<!--   <a href="https://www.linkedin.com/in/kim-charles-rimbault/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="mailto:kimcharles.rimbault@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>
